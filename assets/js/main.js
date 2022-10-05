@@ -1,6 +1,6 @@
 //Chiedi all’utente il suo nome
 const userFirstName = prompt('Qual\'é il tuo nome?')
-console.log(userFirstName)
+console.log(userFirstName);
 //chiedi il suo cognome,
 const userLastName = prompt('Qual\'é il tuo cognome?')
 //chiedi il suo colore preferito
